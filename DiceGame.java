@@ -69,7 +69,7 @@ class DiceGame {
                     // checks if guess is correct
                     } else {
                         // displays message to tell user they are correct
-                        System.out.println("You are corrent!");
+                        System.out.println("You are correct!");
                         System.out.println("It took you " + tries + " tries");
                         // breaks out of loop
                         break;
