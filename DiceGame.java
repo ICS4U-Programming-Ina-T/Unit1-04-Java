@@ -77,7 +77,7 @@ class DiceGame {
                 } else {
                     // displays error message
                     System.out.println("This isn't between 1 and 6. "
-                                       + "This won't count");
+                                       + "This won't count.");
                     // blank line
                     System.out.println();
                 }
