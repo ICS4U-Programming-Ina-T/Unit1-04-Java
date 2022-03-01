@@ -71,8 +71,6 @@ class DiceGame {
                         // displays message to tell user they are correct
                         System.out.println("You are correct!");
                         System.out.println("It took you " + tries + " tries");
-                        // breaks out of loop
-                        break;
                     }
                 } else {
                     // displays error message
