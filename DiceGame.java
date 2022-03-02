@@ -72,6 +72,10 @@ class DiceGame {
                     // displays error message
                     System.out.println("This isn't between 1 and 6. "
                                        + "This won't count.");
+<<<<<<< HEAD
+=======
+                    // blank line
+>>>>>>> 73ba09982f92411d0d2fd7cbb9cf9b5768757fed
                     System.out.println();
                 }
             } catch (IllegalArgumentException exception) {
